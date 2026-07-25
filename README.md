@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- Permanent & Bold Name Heading -->
-  <h1><b>Hi there, I'm <font color="#00FFC8">Abnish Singh</font> 👋 🤖</b></h1>
+  <!-- Permanent & Bold Name Heading in Mint Green -->
+  <h1><b>Hi there, I'm <font color="#00FFC9D">Abnish Singh</font> 👋 🤖</b></h1>
 
   <!-- Dynamic Changing Skills Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
