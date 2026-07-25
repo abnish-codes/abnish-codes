@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Top Custom AI Banner Image -->
-  <img src="banner.png" width="100%" alt="Abnish Singh - AI Engineer Banner" />
+  <img src="photo_2026-07-26_02-29-52.jpg" width="100%" alt="Abnish Singh - AI Engineer Banner" />
 
   <br /><br />
 
