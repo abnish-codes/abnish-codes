@@ -7,16 +7,16 @@
   <!-- Permanent & Bold Name Heading in Mint Green -->
   <h1><b>Hi there, I'm <font color="#00FF9D">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Multi-Color Skill Badges -->
+  <!-- Multi-Color Skill Badges (Red, Blue, Green, Purple) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF1493?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-00F2FE?style=for-the-badge&logoColor=white" /><br />
-    <img src="https://img.shields.io/badge/Building_Smart_AI_Solutions-🚀-39FF14?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-FFD700?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF3B30?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-0078D4?style=for-the-badge&logoColor=white" /><br />
+    <img src="https://img.shields.io/badge/Building_Smart_AI_Solutions-🚀-00C853?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-9D00FF?style=for-the-badge&logoColor=white" />
   </p>
 
-  <!-- Typing Animation Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Welcome+to+my+AI+%26+Data+Science+Portfolio!+%F0%9F%8C%9F" alt="Typing Skills" />
+  <!-- Dynamic Changing Typing Animation Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
   
   <br /><br />
 
@@ -56,72 +56,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnish-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
 
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnish-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>| Domain | Focus / Area | Tools Used |
-| :--- | :--- | :--- |
-| Data Analytics | Exploratory Data Analysis & Excel Automation | Python, Pandas, MS Excel |
-| Database Systems | Relational Database Management & Query Optimization | MySQL, PostgreSQL |
-| AI Models | Machine Learning Algorithms & Predictive Analytics | Python, Scikit-Learn |
-
----
-
-### 🌐 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abnish.singh21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Asingh21" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://abnish-codes.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
-
----<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnish-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🚀 Featured Showcase
-
-| Domain | Focus / Area | Tools Used |
-| :--- | :--- | :--- |
-| Data Analytics | Exploratory Data Analysis & Excel Automation | Python, Pandas, MS Excel |
-| Database Systems | Relational Database Management & Query Optimization | MySQL, PostgreSQL |
-| AI Models | Machine Learning Algorithms & Predictive Analytics | Python, Scikit-Learn |
-
----
-
-### 🌐 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abnish.singh21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Asingh21" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://abnish-codes.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
-
-### 🚀 Featured Showcase
+<br />https://t.me/c/3897291514/22
