@@ -28,14 +28,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abnish-codes&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Abnish's GitHub Trophies" />
-</div>
-
----
-
 ### 🧠 About Me
 
 - 🎓 <font color="#FF1493"><b>Educational Journey:</b></font> Graduate (B.A.) from <b>Bundelkhand University, Jhansi</b> — transitioning strong analytical thinking into Computer Science & AI!
@@ -68,11 +60,7 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnish-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-### 🚀 Featured Showcase| Domain | Focus / Area | Tools Used |
+</div>| Domain | Focus / Area | Tools Used |
 | :--- | :--- | :--- |
 | Data Analytics | Exploratory Data Analysis & Excel Automation | Python, Pandas, MS Excel |
 | Database Systems | Relational Database Management & Query Optimization | MySQL, PostgreSQL |
@@ -99,3 +87,7 @@
     <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Showcase
