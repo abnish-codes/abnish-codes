@@ -88,6 +88,40 @@
   </a>
 </p>
 
+---<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnish-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ---
+
+### 🚀 Featured Showcase
+
+| Domain | Focus / Area | Tools Used |
+| :--- | :--- | :--- |
+| Data Analytics | Exploratory Data Analysis & Excel Automation | Python, Pandas, MS Excel |
+| Database Systems | Relational Database Management & Query Optimization | MySQL, PostgreSQL |
+| AI Models | Machine Learning Algorithms & Predictive Analytics | Python, Scikit-Learn |
+
+---
+
+### 🌐 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abnish.singh21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Asingh21" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://abnish-codes.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
 
 ### 🚀 Featured Showcase
