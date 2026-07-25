@@ -2,16 +2,8 @@
   <!-- Permanent & Bold Name Heading -->
   <h1><b>Hi there, I'm <font color="#00FFC8">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Multi-Color Skill Badges -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF1493?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-00F2FE?style=for-the-badge&logoColor=white" /><br />
-    <img src="https://img.shields.io/badge/Building_Smart_AI_Solutions-🚀-39FF14?style=for-the-badge&logoColor=black" />
-    <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-FFD700?style=for-the-badge&logoColor=black" />
-  </p>
-
-  <!-- Typing Animation Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FFC8&center=true&vCenter=true&width=620&lines=Welcome+to+my+AI+%26+Data+Science+Portfolio!+%F0%9F%8C%9F" alt="Typing Skills" />
+  <!-- Dynamic Changing Skills Banner -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
   
   <br /><br />
 
@@ -20,7 +12,6 @@
     <img src="https://komarev.com/ghpvc/?username=abnish-codes&label=Profile%20Views&color=00FFC8&style=for-the-badge" alt="Profile Views" />
   </p>
 </div>
-
 ---
 
 ### 🏆 GitHub Trophies
