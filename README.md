@@ -1,49 +1,67 @@
 <div align="center">
-  <!-- Permanent & Bold Name Heading in Mint Green -->
-  <h1><b>Hi there, I'm <font color="#00FFC9D">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Dynamic Changing Skills Banner -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFC8&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
-  
-  <br /><br />
+  <!-- Top Executive Header Card -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=ABNISH%20SINGH&fontSize=48&fontColor=00FF9D&stroke=00FF9D&strokeWidth=1&subtext=AI%20STUDENT%20%C2%B7%20DATA%20SCIENCE%20%C2%B7%20PYTHON%20%26%20SQL&subtextBg=false&subfontSize=16&desc=Building%20Intelligent%20AI%20Solutions%20%26%20Data-Driven%20Systems&descAlignY=78&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Profile Visitor Counter -->
+  <br />
+
+  <!-- Highlight Box -->
+  <blockquote align="center">
+    <b>ARTIFICIAL INTELLIGENCE & DATA SCIENCE EXPLORER</b><br />
+    <i>Transitioning strong analytical thinking from Bundelkhand University into AI & Data Engineering.</i>
+  </blockquote>
+
+  <!-- Social Badges Bar (Just like the photo) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=abnish-codes&label=Profile%20Views&color=00FFC8&style=for-the-badge" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="mailto:abnish.singh21@gmail.com">
+      <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://t.me/Asingh21" target="_blank">
+      <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    &nbsp;
+    <a href="https://abnish-codes.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/PORTFOLIO-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" />
+    </a>
   </p>
-</div>
----
 
-### 🏆 GitHub Trophies
+  <!-- Visitor Count Badge -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=abnish-codes&label=PROFILE%20VIEWS&color=00FF9D&style=flat-square" alt="Profile Views" />
+  </p>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abnish-codes&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Abnish's GitHub Trophies" />
 </div>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 <font color="#FF1493"><b>Educational Journey:</b></font> Graduate (B.A.) from <b>Bundelkhand University, Jhansi</b> — transitioning strong analytical thinking into Computer Science & AI!
-- 🚀 <font color="#00F2FE"><b>Current Focus:</b></font> Deep diving into <b>Artificial Intelligence</b>, <b>Machine Learning</b>, <b>Data Science</b>, and <b>Advanced Excel</b>.
-- 💻 <font color="#39FF14"><b>Core Expertise:</b></font> Writing efficient Python scripts, complex SQL queries, and handling relational databases.
-- 🎯 <font color="#FFD700"><b>Mission:</b></font> Solving real-world problems through data analysis and predictive machine learning models.
-- 🌐 <font color="#FF007F"><b>Live Portfolio:</b></font> [abnish-codes.github.io](https://abnish-codes.github.io)
+I build intelligent systems, practical AI models, and database-driven applications. Focused on continuous learning and data analytics.
+
+- 🎓 Education: Graduate (B.A.) from Bundelkhand University, Jhansi.
+- 🚀 Core Focus: Artificial Intelligence, Machine Learning, Data Science & Advanced Excel.
+- 💻 Tech Skills: Python, SQL (MySQL, PostgreSQL), Git & GitHub.
+- 🌐 Portfolio Website: [abnish-codes.github.io](https://abnish-codes.github.io)
 
 ---
 
-### 🛠️ Tech Stack & Skill Matrix
+### 🛠️ Skill Matrix
 
-| Category | Skill Set & Tools |
+| Domain | Tools & Technologies |
 | :--- | :--- |
 | Languages | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| AI & Data Tools | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| AI & Analytics | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
 | Databases | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
-### 📊 Performance & GitHub Analytics
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abnish-codes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
@@ -58,30 +76,6 @@
 
 ---
 
-### 🚀 Featured Showcase| Domain | Focus / Area | Tools Used |
-| :--- | :--- | :--- |
-| Data Analytics | Exploratory Data Analysis & Excel Automation | Python, Pandas, MS Excel |
-| Database Systems | Relational Database Management & Query Optimization | MySQL, PostgreSQL |
-| AI Models | Machine Learning Algorithms & Predictive Analytics | Python, Scikit-Learn |
-
----
-
-### 🌐 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:abnish.singh21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/Asingh21" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://abnish-codes.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-00FFC8?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
-  </a>
-</p>
+### 🏆 GitHub Trophies<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abnish-codes&theme=onedark&column=6&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
+</div>
