@@ -7,13 +7,17 @@
   <!-- Permanent & Bold Name Heading in Mint Green -->
   <h1><b>Hi there, I'm <font color="#00FF9D">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Multi-Color Skill Badges (Red, Blue, Green, Purple) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF3B30?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-0078D4?style=for-the-badge&logoColor=white" /><br />
-    <img src="https://img.shields.io/badge/Building_Smart_AI_Solutions-🚀-00C853?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-9D00FF?style=for-the-badge&logoColor=white" />
-  </p>
+  <!-- Multi-Color Skill Badges -->
+<p align="center">
+  <!-- Badge 1: Vibrant RED -->
+  <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF3B30?style=for-the-badge&logoColor=white" />
+  <!-- Badge 2: Electric BLUE -->
+  <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-0078D4?style=for-the-badge&logoColor=white" /><br />
+  <!-- Badge 3: Neon GREEN -->
+  <img src="https://img.shields.io/badge/Building_Smart_AI_Solutions-🚀-00C853?style=for-the-badge&logoColor=white" />
+  <!-- Badge 4: Deep PURPLE -->
+  <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-9D00FF?style=for-the-badge&logoColor=white" />
+</p>
 
   <!-- Dynamic Changing Typing Animation Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
