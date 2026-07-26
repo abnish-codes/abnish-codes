@@ -4,10 +4,15 @@
 
   <br /><br />
 
-  <!-- Permanent & Bold Name Heading in Mint Green -->
-  <h1><b>Hi there, I'm <font color="#00FF9D">Abnish Singh</font> 👋 🤖</b></h1>
+  <!-- Welcome Greeting -->
+  <h2>Hi there, I'm 👋 🤖</h2>
 
-  <!-- Multi-Color Skill Badges -->
+  <!-- Gradient SVG Name Header -->
+  <img src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='500' height='100' viewBox='0 0 500 100'><defs><linearGradient id='grad' x1='0%25' y1='0%25' x2='0%25' y2='100%25'><stop offset='0%25' style='stop-color:%2300F0FF;stop-opacity:1' /><stop offset='100%25' style='stop-color:%23D500F9;stop-opacity:1' /></linearGradient></defs><text x='50%25' y='65%25' font-family='system-ui, -apple-system, BlinkMacSystemFont, Roboto, sans-serif' font-size='55' font-weight='900' fill='url(%23grad)' text-anchor='middle' letter-spacing='2'>ABNISH SINGH</text></svg>" alt="Abnish Singh" />
+
+  <br /><br />
+
+  <!-- Multi-Color Skill Badges (Red, Blue, Green, Purple) -->
   <p align="center">
     <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF3B30?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-0078D4?style=for-the-badge&logoColor=white" /><br />
@@ -15,7 +20,7 @@
     <img src="https://img.shields.io/badge/Python_%26_Database_Developer-🐍-9D00FF?style=for-the-badge&logoColor=white" />
   </p>
 
-  <!-- Dynamic Changing Typing Animation Banner (Electric Cyan) -->
+  <!-- Dynamic Changing Typing Animation Banner -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F2FE&center=true&vCenter=true&width=620&lines=Artificial+Intelligence+Student+%F0%9F%A4%91;Data+Science+%26+SQL+Enthusiast+%F0%9F%93%8A;Building+Smart+AI+Solutions+%F0%9F%9A%80;Python+%26+Database+Developer+%F0%9F%90%8D" alt="Typing Skills" />
   
   <br /><br />
@@ -47,14 +52,14 @@
 | Databases | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
 | Version Control | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) |
 
----
-
-### 📊 Performance & GitHub Analytics
-
-<div align="center">
+---<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abnish-codes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnish-codes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</div><div align="center">
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abnish-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -88,6 +93,6 @@
   <a href="https://abnish-codes.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
-  </p>
+</p>
 
-<br />
+### 📊 Performance & GitHub Analytics
