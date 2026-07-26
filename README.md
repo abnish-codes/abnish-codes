@@ -7,12 +7,12 @@
   <!-- Permanent & Bold Name Heading in Mint Green -->
   <h1><b>Hi there, I'm <font color="#00FF9D">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Multi-Color Skill Badges with White Symbol Background -->
+  <!-- Skill Badges (Black Background with White Symbol Background) -->
   <p align="center">
-    <img src="https://img.shields.io/badge/🤖-Artificial_Intelligence_Student-FF3B30?style=for-the-badge&labelColor=ffffff" />
-    <img src="https://img.shields.io/badge/📊-Data_Science_%26_SQL_Enthusiast-0078D4?style=for-the-badge&labelColor=ffffff" /><br />
-    <img src="https://img.shields.io/badge/🚀-Building_Smart_AI_Solutions-00C853?style=for-the-badge&labelColor=ffffff" />
-    <img src="https://img.shields.io/badge/🐍-Python_%26_Database_Developer-9D00FF?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/🤖-Artificial_Intelligence_Student-000000?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/📊-Data_Science_%26_SQL_Enthusiast-000000?style=for-the-badge&labelColor=ffffff" /><br />
+    <img src="https://img.shields.io/badge/🚀-Building_Smart_AI_Solutions-000000?style=for-the-badge&labelColor=ffffff" />
+    <img src="https://img.shields.io/badge/🐍-Python_%26_Database_Developer-000000?style=for-the-badge&labelColor=ffffff" />
   </p>
 
   <!-- Dynamic Changing Typing Animation Banner (Electric Cyan #00D2FF) -->
@@ -40,12 +40,12 @@
 
 ### 🛠️ Tech Stack & Skill Matrix
 
-| Category | Skill Set & Tools |
+| Category | Skill Set & Official Brand Tools |
 | :--- | :--- |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **AI & Data Tools** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-3776AB?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) |
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) |
+| **AI & Data Tools** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![Data Science](https://img.shields.io/badge/Data_Science-150458?style=flat-square&logo=pandas&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 
 ---
 
