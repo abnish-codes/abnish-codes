@@ -285,16 +285,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 📌 Open Source Journey
-
-- 🌱 Learning from the developer community
-- 🤝 Open to collaboration
-- 💡 Exploring AI & Machine Learning
-- 🛠 Building practical projects
-- 📈 Improving with every commit
-
-```
-### 🌐 Let's Connect & Collaborate!
+# 🌐 Let's Connect & Collaborate!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
@@ -313,6 +304,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
     <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
   </a>
 </p>
+
 ---
 
 # 💡 Daily Motivation
