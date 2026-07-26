@@ -275,23 +275,6 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# ⚡ GitHub Performance
-
-<div align="center">
-
-| Metric | Status |
-|:-------:|:------:|
-| 🚀 Commits | Improving Every Day |
-| ⭐ Repositories | Continuously Growing |
-| 🔥 Contribution | Active Learner |
-| 📚 Learning | Daily |
-| 💻 Coding | Consistent |
-| 🤝 Collaboration | Always Open |
-
-</div>
-
----
-
 # 🌟 Developer Mindset
 
 <div align="center">
@@ -310,35 +293,26 @@ My journey started with analytical thinking and has evolved into exploring **Art
 - 🛠 Building practical projects
 - 📈 Improving with every commit
 
----
-
-```html
-<p align="center">
-<img src="https://raw.githubusercontent.com/abnish-codes/abnish-codes/output/github-contribution-grid-snake-dark.svg"/>
-</p>  
-
 ```
+### 🌐 Let's Connect & Collaborate!
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/abnish-singh-1578013a1">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:abnish.singh21@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://t.me/Asingh21">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://abnish-codes.github.io">
-<img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/abnish-singh-1578013a1" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:abnish.singh21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/Asingh21" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://abnish-codes.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio_Website-00FF9D?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Portfolio" />
+  </a>
+</p>
 ---
 
 # 💡 Daily Motivation
