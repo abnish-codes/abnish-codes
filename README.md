@@ -10,9 +10,9 @@
 
 <br><br>
 
-# 👋 Hi, I'm **Abnish Singh**
+#  Hi, I'm **Abnish Singh**
 
-### 🚀 Artificial Intelligence Engineer in Progress
+### Artificial Intelligence Engineer in Progress
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1200&center=true&vCenter=true&width=850&color=00F5A0&lines=Artificial+Intelligence+Engineer;Machine+Learning+Enthusiast;Python+Developer;Data+Science+Explorer;SQL+Database+Developer;Building+Smart+AI+Solutions;Always+Learning+New+Technologies" />
 
@@ -56,13 +56,13 @@
 
 ---
 
-> ## 💡 *"Artificial Intelligence isn't replacing humans — it's empowering those who know how to build it."*
+> ##  *"Artificial Intelligence isn't replacing humans — it's empowering those who know how to build it."*
 
 </div># 🧠 About Me
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
-### 👨‍💻 Who Am I?
+###  Who Am I?
 
 I'm **Abnish Singh**, an aspiring **Artificial Intelligence Engineer** passionate about solving real-world problems using technology.
 
@@ -94,7 +94,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🌱 Currently Learning
+#  Currently Learning
 
 <p align="center">
 
@@ -104,24 +104,24 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🏆 Career Vision
+#  Career Vision
 
 > **"My goal is to build intelligent AI systems that solve real-world challenges through Machine Learning, Data Science, and Automation while continuously learning emerging technologies."**
 
 ---
 
-# ⚡ Quick Facts
+#  Quick Facts
 
-- 🔥 Passionate about AI & Technology
-- 💡 Love solving logical problems
-- 🧩 Interested in Automation
-- 🌍 Believe in Continuous Learning
-- 🤝 Open to Collaboration
-- 🚀 Building my professional developer portfolio
+-  Passionate about AI & Technology
+-  Love solving logical problems
+-  Interested in Automation
+-  Believe in Continuous Learning
+-  Open to Collaboration
+-  Building my professional developer portfolio
 
 ---
 
-# 📈 2026 Goals
+#  2026 Goals
 
 - ✅ Master Python
 - ✅ Build AI Projects
@@ -134,7 +134,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 <div align="center">
 
-### 🚀 Languages
+###  Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
@@ -166,7 +166,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🤖 AI Projects
 
@@ -204,11 +204,11 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🌟 What I Love Building
+#  What I Love Building
 
 <div align="center">
 
-| ❤️ Passion | 🚀 Focus |
+|  Passion | Focus |
 |------------|----------|
 | Artificial Intelligence | Smart Systems |
 | Machine Learning | Prediction Models |
@@ -220,7 +220,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🏅 Highlights
+#  Highlights
 
 - 🚀 AI Enthusiast
 - 📊 Data Science Learner
@@ -231,7 +231,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 📌 Current Mission
+#  Current Mission
 
 > **"Learning every day, building consistently, and preparing to become a world-class AI Engineer."**
 
@@ -265,7 +265,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 📈 Contribution Activity
+#  Contribution Activity
 
 <div align="center">
 
@@ -275,7 +275,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🌟 Developer Mindset
+#  Developer Mindset
 
 <div align="center">
 
@@ -307,7 +307,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 💡 Daily Motivation
+#  Daily Motivation
 
 <div align="center">
 
@@ -335,9 +335,9 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 <div align="center">
 
-### ⭐ If you like my work,
+###  If you like my work,
 
-### 🌟 Follow my journey on GitHub!
+###  Follow my journey on GitHub!
 
 <img src="https://komarev.com/ghpvc/?username=abnish-codes&label=Visitors&color=0e75b6&style=flat"/>
 
