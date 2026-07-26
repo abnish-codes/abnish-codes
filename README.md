@@ -7,7 +7,7 @@
   <!-- Permanent & Bold Name Heading in Mint Green -->
   <h1><b>Hi there, I'm <font color="#00FF9D">Abnish Singh</font> 👋 🤖</b></h1>
 
-  <!-- Multi-Color Skill Badges (Red, Blue, Green, Purple) -->
+  <!-- Multi-Color Skill Badges -->
   <p align="center">
     <img src="https://img.shields.io/badge/Artificial_Intelligence_Student-🤖-FF3B30?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/Data_Science_%26_SQL_Enthusiast-📊-0078D4?style=for-the-badge&logoColor=white" /><br />
