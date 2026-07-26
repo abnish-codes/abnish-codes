@@ -102,23 +102,6 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 </p>
 
-### 📚 Learning Roadmap
-
-```text
-Python            ██████████████░░░░ 80%
-
-SQL               █████████████░░░░░ 75%
-
-Machine Learning  ██████████░░░░░░░░ 60%
-
-Data Science      █████████░░░░░░░░░ 55%
-
-Git & GitHub      █████████████░░░░░ 75%
-
-Artificial Intelligence
-████████░░░░░░░░░ 50%
-```
-
 ---
 
 # 🏆 Career Vision
@@ -180,20 +163,6 @@ Artificial Intelligence
 </p>
 
 </div>
-
----
-
-# 📊 Skills Overview
-
-| Skill | Level |
-|--------|--------|
-| 🐍 Python | █████████░░ 85% |
-| 🗄 SQL | ████████░░ 80% |
-| 📊 Data Analysis | ███████░░░ 75% |
-| 🤖 Machine Learning | ██████░░░░ 65% |
-| 🧠 Artificial Intelligence | ██████░░░░ 65% |
-| 🗃 Database Management | ████████░░ 80% |
-| 🌐 Git & GitHub | ████████░░ 80% |
 
 ---
 
@@ -343,29 +312,12 @@ Artificial Intelligence
 
 ---
 
-# 🐍 Contribution Snake
-
-> **⚠️ IMPORTANT:** Yeh image tabhi dikhegi jab tum GitHub Action setup karoge.
-
 ```html
 <p align="center">
 <img src="https://raw.githubusercontent.com/abnish-codes/abnish-codes/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+</p>  
+
 ```
-
----
-
-# 🚀 Profile Strength
-
-| Category | Rating |
-|-----------|--------|
-| 🎨 Design | ⭐⭐⭐⭐⭐ |
-| 💻 Tech Stack | ⭐⭐⭐⭐⭐ |
-| 📈 GitHub Activity | ⭐⭐⭐⭐⭐ |
-| 📚 Learning | ⭐⭐⭐⭐⭐ |
-| 🚀 Professionalism | ⭐⭐⭐⭐⭐ |
-
----# 🚀 Let's Connect
 
 <div align="center">
 
@@ -384,25 +336,6 @@ Artificial Intelligence
 <a href="https://abnish-codes.github.io">
 <img src="https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
-
-</div>
-
----
-
-# 🌟 Featured Repository Categories
-
-<div align="center">
-
-| 🤖 AI | 🐍 Python | 📊 Data Science |
-|-------|-----------|----------------|
-| Machine Learning | Automation Scripts | Data Analysis |
-| Deep Learning | Utilities | Visualization |
-| AI Projects | APIs | Excel Dashboard |
-
-| 🗄 Database | ⚙ Tools | 🚀 Open Source |
-|-------------|----------|---------------|
-| MySQL | Git | GitHub |
-| PostgreSQL | VS Code | Community |
 
 </div>
 
