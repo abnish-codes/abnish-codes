@@ -58,7 +58,7 @@
 
 > ##  *"Artificial Intelligence isn't replacing humans — it's empowering those who know how to build it."*
 
-</div># 🧠 About Me
+</div># About Me
 
 <img align="right" alt="Coding" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
@@ -68,22 +68,22 @@ I'm **Abnish Singh**, an aspiring **Artificial Intelligence Engineer** passionat
 
 My journey started with analytical thinking and has evolved into exploring **Artificial Intelligence, Machine Learning, Data Science, Python, SQL, and Databases**. I enjoy transforming raw data into meaningful insights and building intelligent solutions that create real impact.
 
-- 🎓 Graduate (B.A.) – Bundelkhand University, Jhansi
-- 🤖 Currently learning Artificial Intelligence & Machine Learning
-- 🐍 Python Developer
-- 🗄️ SQL & Database Enthusiast
-- 📊 Data Analytics Learner
-- 🚀 Future AI Engineer
+- Graduate (B.A.) – Bundelkhand University, Jhansi
+- Currently learning Artificial Intelligence & Machine Learning
+- Python Developer
+- SQL & Database Enthusiast
+- Data Analytics Learner
+- Future AI Engineer
 
 <br clear="right"/>
 
 ---
 
-# 🎯 Current Focus
+# Current Focus
 
 <div align="center">
 
-| 🚀 Learning | 💻 Building | 🎯 Goal |
+| Learning | Building | Goal |
 |-------------|------------|----------|
 | Artificial Intelligence | AI Projects | Become an AI Engineer |
 | Machine Learning | Python Applications | Solve Real Problems |
@@ -130,7 +130,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 - ✅ Contribute to Open Source
 - ✅ Build an Outstanding GitHub Portfolio
 
----# 💻 Tech Stack & Tools
+---# Tech Stack & Tools
 
 <div align="center">
 
@@ -140,7 +140,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 <img src="https://skillicons.dev/icons?i=python,mysql,postgres"/>
 </p>
 
-### 🤖 AI • Data Science
+### AI • Data Science
 
 <p>
 
@@ -154,7 +154,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 </p>
 
-### ⚙️ Tools
+### Tools
 
 <p>
 
@@ -168,16 +168,16 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 #  Featured Projects
 
-## 🤖 AI Projects
+## AI Projects
 
-- 🧠 Intelligent AI Applications
-- 🤖 Machine Learning Models
-- 📈 Predictive Analytics
-- 📊 Data Visualization
+- Intelligent AI Applications
+- Machine Learning Models
+- Predictive Analytics
+- Data Visualization
 
 ---
 
-## 🐍 Python Projects
+## Python Projects
 
 - Python Automation
 - File Management Tools
@@ -186,7 +186,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-## 🗄 SQL Projects
+## SQL Projects
 
 - Advanced SQL Queries
 - Database Design
@@ -195,7 +195,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-## 📈 Data Analytics
+## Data Analytics
 
 - Excel Dashboards
 - Data Visualization
@@ -222,12 +222,12 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 #  Highlights
 
-- 🚀 AI Enthusiast
-- 📊 Data Science Learner
-- 🐍 Python Programmer
-- 💾 SQL Developer
-- 🌱 Continuous Learner
-- 💡 Problem Solver
+- AI Enthusiast
+- Data Science Learner
+- Python Programmer
+- SQL Developer
+- Continuous Learner
+- Problem Solver
 
 ---
 
@@ -235,7 +235,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 > **"Learning every day, building consistently, and preparing to become a world-class AI Engineer."**
 
----# 📊 GitHub Analytics
+---# GitHub Analytics
 
 <div align="center">
 
@@ -319,19 +319,19 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 ---
 
-# 🎯 2026 Mission
+# 2026 Mission
 
-- 🚀 Build impactful AI applications
-- 🤖 Master Machine Learning
-- 📊 Become highly skilled in Data Science
-- 🐍 Write clean Python code
-- 💾 Strengthen SQL expertise
-- 🌍 Contribute to Open Source
-- 📚 Never stop learning
+- Build impactful AI applications
+- Master Machine Learning
+- Become highly skilled in Data Science
+- Write clean Python code
+- Strengthen SQL expertise
+- Contribute to Open Source
+- Never stop learning
 
 ---
 
-# ❤️ Thanks for Visiting
+# Thanks for Visiting
 
 <div align="center">
 
@@ -347,7 +347,7 @@ My journey started with analytical thinking and has evolved into exploring **Art
 
 <div align="center">
 
-## ⚡ "Code • Learn • Build • Inspire"
+##  "Code • Learn • Build • Inspire"
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F5A0,50:00D9FF,100:7F5AF0&section=footer"/>
 
